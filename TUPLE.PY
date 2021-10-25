@@ -1,8 +1,11 @@
 # Creating a Tuple
 
+# Tuple is immutable unlike lists which are mutable.
+
 # Different types of tuples
 
 # Empty tuple
+
 my_tuple = ()
 print(my_tuple)
 
